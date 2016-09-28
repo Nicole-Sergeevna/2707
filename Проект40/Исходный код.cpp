@@ -6,7 +6,7 @@ using namespace std;
  
 int main()
 {
-ifstream in;
+ifstream in; bhgvfcddfgvhbgfvd
 ofstream out;
 
 in.open("D:\\f1.bin", ios::in);
